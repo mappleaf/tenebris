@@ -4,6 +4,7 @@
     "title": "Tenebris",
     "author": "Big_J",
     "description": "Adds a new planet, tenebris, a dark planet enshrouded in a thick acidic atmosphere.",
+    "homepage": "https://github.com/mappleaf/tenebris",
     "space_travel_required": true,
     "factorio_version": "2.0",
     "dependencies": [
